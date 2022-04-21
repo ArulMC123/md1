@@ -25,7 +25,7 @@ const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, 
 let btn = [{
                                 urlButton: {
                                     displayText: `Github`,
-                                    url: `https://github.com/Nakataaard`
+                                    url: `https://github.com/ArulMC123`
                                 }
                             }, {
                                 quickReplyButton: {

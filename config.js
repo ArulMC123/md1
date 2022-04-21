@@ -17,12 +17,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','6285748894171']
+global.owner = ['6288219647445','6288219647445']
 global.web = 'https://youtube.com/channel/UC2hMC3YSXSrDDhqOECXZkUg'
-global.bot = 'NahBotz-MD²'
-global.premium = ['6285748894171']
-global.packname = 'NakataArdnt'
-global.author = 'Nakata'
+global.bot = 'SkyBotz-V1'
+global.premium = ['6288219647445']
+global.packname = 'SkyBotz'
+global.author = 'SkyBotz'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -39,7 +39,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10000000000
 }
 global.thumb = fs.readFileSync('./media/nakata.jpg')
 

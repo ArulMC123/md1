@@ -18,7 +18,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6288219647445','6288219647445']
-global.web = 'https://youtube.com/channel/UC2hMC3YSXSrDDhqOECXZkUg'
+global.web = 'https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ'
 global.bot = 'SkyBotz-V1'
 global.premium = ['6288219647445']
 global.packname = 'SkyBotz'
